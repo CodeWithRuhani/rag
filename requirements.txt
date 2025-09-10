@@ -3,5 +3,3 @@ google-generativeai
 langchain
 faiss-cpu
 sentence_transformers
-pickle
-dotenv

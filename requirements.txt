@@ -3,4 +3,4 @@ google-generativeai
 langchain_community
 faiss-cpu
 sentence_transformers
-
+langchain_huggingface

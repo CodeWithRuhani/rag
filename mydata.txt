@@ -1,0 +1,100 @@
+{
+  "name": "Ruhani Gera",
+  "dob": "2006-04-16",
+  "gender": "Female",
+  "contact": {
+   "email": "ruhanigera7@gmail.com",
+    "phone": "+91-" ,7589013972 
+    "github": "https://www.github.com/CodeWithRuhani",
+    "linkedin": "https://www.linkedin.com/in/ruhani-gera-851454300",
+    "address": "Nangal, Punjab 140124"
+  },
+  "about_me": "I am an aspiring data scientist and AI enthusiast with a strong foundation in Python, C++ and R. I have hands-on experience in building Machine learning models and  in training deep learning models like CNN's etc .I am a fast learner, good communicator, proactive problem solver, and committed to continuous growth. My recent projects include Hand gestures baes calculator and my own personal AI assistant.",
+  "education": [
+    {
+      "level": "10th",
+      "school": "Govt. Girls Senior Secondary School, Nangal",
+      "percentage": "88%",
+      "years": "2020-2021"
+    },
+    {
+      "level": "12th",
+      "school": "Govt. Girls Senior Secondary School, Nangal",
+      "percentage": "87%",
+      "years": "2022-2023"
+    },
+    {
+      "level": "BSC",
+      "major": "Artificial Intelligence and Data Science",
+      "College": "Sri Guru Teg Bahadur Khalsa College , Sri Anandpur Sahib Punjab",
+      "years": "2023-2026 (expected)"
+    }
+  ],
+  "skills": {
+    "soft_skills": [
+      "Team Management",
+      "Leadership",
+      "Problem Solving",
+      "Quick Learning",
+      " Good Communication" ,
+      "Public Speaker"
+    ],
+    "core_skills": {
+      "programming_languages": [
+        "C",
+        "C++",
+        "Python",
+        "R"
+      ],
+      "technical_skills": [
+        "Machine Learning",
+        "Deep Learning",
+        "TensorFlow",
+        "Keras",
+        "Flask"
+      ]
+    }
+  },
+  "projects": [
+    {
+      "title": "Multimodal RAG System",
+      "description": "Built a RAG system handling 20k pages of multimodal data (text and images) from PDFs. The system outputs both text and images using advanced retrieval techniques, leveraging Flask and REST APIs for efficient data access and Google Cloud Run for scalable deployment.",
+      "technologies": ["Flask", "REST API", "Google Cloud Run", "FAISS", "BM25"]
+    },
+    {
+      "title": "Automated News Research Tool",
+      "description": "Built a tool to automatically scrape news from Google and multiple sites using Selenium. Integrated a fine-tuned LLaMA2 model to summarize the news, optimizing for dynamic content handling and efficient data collection.",
+      "technologies": ["Python", "Selenium", "LLaMA2"]
+    },
+    {
+      "title": "Job Search App for Daily Workers",
+      "description": "Developed a Flutter app to connect daily workers with local job opportunities. Implemented Firebase Phone Authentication and utilized Firebase Realtime Database for real-time job postings and user data management.",
+      "technologies": ["Flutter", "Firebase"]
+    },
+    {
+      "title": "AI-Assisted Music Production Web App",
+      "description": "Created a web app to generate song lyrics based on user input for language, genre, and song description. Integrated a REST service using the Gemini API for lyrics generation and deployed the application on Vercel.",
+      "technologies": ["Flutter", "Gemini API", "Vercel"]
+    },
+    {
+      "title": "P2P File Sharing App",
+      "description": "Built a peer-to-peer file-sharing app using a Python server backend hosted on Vercel. Each user is assigned a unique 8-digit ID, enabling direct file transfers with error handling and deadlock prevention.",
+      "technologies": ["Python", "Flutter", "Vercel"]
+    },
+    {
+      "title": "AI Text-to-Voice Assistant API",
+      "description": "Developed a complete pipeline for a text-to-voice assistant API using Flask. Implemented custom embeddings and fine-tuned models for enhanced voice synthesis.",
+      "technologies": ["Python", "Flask", "AI Model Fine-Tuning"]
+    },
+    {
+      "title": "IoT Communication Protocol Optimization",
+      "description": "Conducted research on optimizing energy efficiency in smart home automation using MQTT and CoAP protocols. Compared latency, energy consumption, and scalability through simulations and proposed hybrid solutions.",
+      "technologies": ["IoT", "MQTT", "CoAP", "Python"]
+    },
+    {
+      "title": "Remote Android Control via Web Client",
+      "description": "Designed a Flutter web client to control an Android device backend. Enabled remote access to the phone's camera, messages, and storage using Vercel for hosting.",
+      "technologies": ["Flutter", "Android", "Vercel"]
+    }
+  ]
+}
